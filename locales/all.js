@@ -53,4 +53,5 @@ module.exports = {
   zh_cn: require("./zh-cn.json"),
   zh_tw: require("./zh-tw.json"),
   zu: require("./zu.json"),
+  km: require("./km.json"),
 }
