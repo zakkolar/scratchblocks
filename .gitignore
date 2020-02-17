@@ -1,7 +1,6 @@
 *.pyc
 *.swp
 .DS_Store
-build/
 node_modules
 npm-debug.log
 src/_cache
